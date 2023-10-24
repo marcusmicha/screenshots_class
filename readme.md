@@ -13,4 +13,6 @@ In order to make the experience smooth, before executing the notebook please
 * Place the initial csv file in the *data* folder
 * ```pip install -r requirements.txt```
 
+Some discussions added in the last cell  of the notebook.
+
 Let me know if you have any question 🙂
